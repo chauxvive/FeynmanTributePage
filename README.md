@@ -1,4 +1,4 @@
-![Rocktzar logo](https://res.cloudinary.com/mpauldesigns/image/upload/v1540421311/rocktzar_red.png)
+![Rocktzar logo](https://res.cloudinary.com/mpauldesigns/image/upload/c_scale,q_100,w_200/v1540421311/rocktzar_red.png)
 
 # Richard Feynman Tribute Page
 
