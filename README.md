@@ -1,3 +1,5 @@
+![Rocktzar logo](https://res.cloudinary.com/mpauldesigns/image/upload/v1540421311/rocktzar_red.png)
+
 # Richard Feynman Tribute Page
 
 ### This is my Feynman Tribute Page from Free Code Camp's Responsive Design Certificate 
