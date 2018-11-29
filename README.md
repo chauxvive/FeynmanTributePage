@@ -28,7 +28,7 @@ Richard Feynman was an incredible polymath and insatiably curious. As a teacher,
 
 ### Technologies Used:
 
-Simple html with an open-source digital newspaper stylesheet and Bootstrap.
+Simple HTML5 with an open-source digital newspaper stylesheet and Bootstrap.
 
 ### Future upgrades:
 
